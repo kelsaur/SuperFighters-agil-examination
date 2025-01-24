@@ -8,3 +8,4 @@ Super Fighters Mötesbokning enligt Scrum metoder<br>
 <a href="https://docs.google.com/document/d/1TW2IobJyXaTGO9q2rLS5bXlscR9mKqmESJMDHP3T-HE/edit?usp=sharing">Retro Dokumentation</a><br>
 
 <a href="https://docs.google.com/document/d/1Q2tUTH5n6Whfj4vNo_ITo5xSVuOMxv4yfisB68AVSnU/edit?hl=sv&tab=t.0">Mötesdokumentation</a>
+<a href="https://prezi.com/view/lJyZH3vvlp9DLWoB3iU0/">Presentation</a>
